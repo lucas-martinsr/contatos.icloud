@@ -1,6 +1,6 @@
 # Estruturação de Base de Contatos (SQL | Data Cleaning | ETL)
 
-Projeto desenvolvido para estruturação e padronização de uma base de contatos proveniente de múltiplas fontes (iCloud e WhatsApp), com foco na utilização para campanhas e geração de leads.
+Projeto desenvolvido como trabalho freelance para estruturação e padronização de uma base de contatos proveniente de múltiplas fontes (iCloud e WhatsApp), com foco na utilização para campanhas e geração de leads.
 
 *Os dados apresentados neste projeto foram anonimizados para garantir a privacidade das informações.*
 
